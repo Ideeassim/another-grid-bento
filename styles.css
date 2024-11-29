@@ -1,0 +1,59 @@
+body{
+    font-family: 'DM Sans';
+}
+.main-container{
+    border: solid black;
+    height: 100vh;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+
+}
+
+.boxes{
+     flex: 7rem;
+     max-width: 50%;
+     font-size: 18px;
+}
+.box1{
+    border-radius: 10px;
+    background: rgb(117, 81, 220);
+}
+.box1-media-con{
+    padding: 10%;
+    
+}
+.text{
+    text-align: center;
+    color: white;
+}
+
+.box2{
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+}
+.box3{
+    border-radius: 10px;
+    background: rgb(255, 204, 106);
+}
+.box4{
+    border-radius: 10px;
+    background: rgb(219, 209, 252);
+}
+.box5{
+    border-radius: 10px;
+    background: rgb(117, 81, 220);
+}
+.box6{
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+}
+.box7{
+    border-radius: 10px;
+    background: rgb(249, 238, 226);
+}
+.box8{
+    border-radius: 10px;
+    background: rgb(255, 204, 106);
+}
